@@ -118,6 +118,4 @@ What will be the most efficient visualization for the data in question?
 
 ### What do we do if someone goes quiet?
 
-A reasonable rule: Don't wait until the week it is due.
-
 We decided that checking in after a day is appropriate. If there is still nothing after two, bring it to the whole team. If it is still not resolved, emailing Professor Williamson is our course of action.
