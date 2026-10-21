@@ -4,8 +4,6 @@
 
 ### What does a good result look like for our team?
 
-"A notebook we are proud of and can explain" is a goal. "Do well" is not.
-
 In terms of successful execution of each data exercise, a good result looks like successfully cleaning the data and calling the OpenMateo API.
 
 In terms of mastering good data analysis practices, a good result looks like being able to explain every step we did and why, contextualizing each line/chunk of code with clear descriptions to ensure everyone is on the same page, being able to reference past labs to help us understand the task at hand, and creating good dictionaries that are clear and easy to reference.
