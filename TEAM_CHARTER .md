@@ -37,7 +37,7 @@ In terms of mastering good data analysis practices, a good result looks like bei
 
 ### What limits our time?
 
-**Michael**
+**Michael Tague**
 
 1. TA office hours,
 2. architecture studio 4 hours per day
