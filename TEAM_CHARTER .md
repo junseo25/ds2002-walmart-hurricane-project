@@ -2,8 +2,6 @@
 
 ## 1. Goals
 
-Agree on these out loud before you assign anything. Write each answer in a sentence or two.
-
 ### What does a good result look like for our team?
 
 "A notebook we are proud of and can explain" is a goal. "Do well" is not.
@@ -13,8 +11,6 @@ In terms of successful execution of each data exercise, a good result looks like
 In terms of mastering good data analysis practices, a good result looks like being able to explain every step we did and why, contextualizing each line/chunk of code with clear descriptions to ensure everyone is on the same page, being able to reference past labs to help us understand the task at hand, and creating good dictionaries that are clear and easy to reference.
 
 ### What does each person want to get out of this?
-
-One person might want API practice, another wants a strong presentation, another just wants to get through it. All of that is fine, and it is easier to plan around when everyone says it.
 
 **Mark Chernov:**
 
@@ -42,8 +38,6 @@ One person might want API practice, another wants a strong presentation, another
 5. Having good quality code as ownership and responsibility of code will be important for code that will be referenced and relied on for future work
 
 ### What limits our time?
-
-Work shifts, other classes, travel. Put the real ones on the table now.
 
 **Michael**
 
@@ -75,7 +69,6 @@ A bad experience can be divided into two categories: failure to properly carry o
 
 ## 2. Who does what
 
-There are four jobs, matched to where the points are. Each job has an owner, who makes sure it gets done, and a backup, who can step in if the owner is sick or swamped. The owner does not have to do all of it alone, but the owner is the person we ask
 
 | Role | The owner is responsible for | Done when | Grade area |
 | --- | --- | --- | --- |
@@ -93,9 +86,7 @@ Two more things sit on top of the four jobs:
 
 | Team of | How to split it |
 | --- | --- |
-| 2 | One person owns cleaning and the decision log. The other owns the weather API and the join. Split the five questions between you, and both build charts. |
 | 3 | One person each for cleaning, weather, and analysis. Charts and the presentation are shared. |
-| 4 | One owner per job. Everyone takes at least one question. |
 
 ## 3. Who owns each question
 
@@ -109,8 +100,6 @@ Answer these in the charter. Vague answers cause trouble later, so be specific.
 
 ### Where do we talk, and how fast do we answer?
 
-Name the channel. "Within a day" is a real answer. "Whenever" is not.
-
 Text messaging our iMessage group chat is the best form of communication
 
 1. Michael: Within 2 hours
@@ -118,8 +107,6 @@ Text messaging our iMessage group chat is the best form of communication
 3. Mark: I will respond within an hour unless I am in class. At worst, by EOD
 
 ### When do we meet outside class?
-
-A real recurring slot that is on everyone's calendar. "We'll text" is not a meeting time.
 
 7:00 - 8:30 PM on Tuesdays is our initial recurring slot, though we have collectively found that any weeknight around this time is ideal as a fallback.
 
