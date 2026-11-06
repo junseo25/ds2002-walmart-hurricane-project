@@ -1,8 +1,6 @@
 # DS 2002 Midterm Project — Data Cleaning
 
-Documentation of the Colab data-cleaning workflow, formatted for GitHub. The Python code below is preserved from the original notebook, in its original execution order; notebook outputs are omitted.
-
-> **Note:** This is a documentation conversion, not a code audit. Existing code behavior and any incomplete cleaning steps are retained.
+Data Cleaning workflow
 
 ## Setup and Initial Data Review
 
@@ -10,11 +8,14 @@ Import the required libraries, load the CSV datasets from GitHub, and inspect ba
 
 ### Import libraries
 
-Load Pandas and NumPy.
+Load Pandas, NumPy, Sqlite 3 etc...
 
 ```python
 import pandas as pd
 import numpy as np
+import urllib.request
+import os
+import sqlite3
 ```
 
 ### Load source CSV files
@@ -503,7 +504,7 @@ transactions_clean['unit_price'] = transactions_clean['unit_price'].apply(format
 print(transactions_clean['unit_price'].unique())
 ```
 
-### Parse transaction timestamps
+### Translate transaction timestamps
 
 Convert mixed timestamp formats to Pandas datetimes.
 
