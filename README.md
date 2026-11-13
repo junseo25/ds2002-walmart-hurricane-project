@@ -4,15 +4,15 @@ A DS2002 team project exploring how Hurricane Helene affected Walmart product de
 
 ## Repository contents
 
-- [`notebooks/notebook.ipynb`](notebooks/notebook.ipynb) — the main working notebook. It includes data loading and cleaning, validation checks, weather retrieval and joins, Q1–Q5, charts, the recommendation, and reflections.
-- [`notebooks/scratch/`](notebooks/scratch/) — supporting notebook work and experiments.
-- [`data/`](data/) — the project’s source files:
-  - `walmart_transactions.csv` — transaction records
-  - `product_catalog.csv` — product and SKU information
-  - `store_locations.csv` — store locations
-  - `distribution_centers.csv` — distribution-center locations
-  - `inventory_and_sales.db` — SQLite database with sales and inventory tables
-- [`TEAM_CHARTER.md`](TEAM_CHARTER.md) — team goals, roles, responsibilities, and working agreements.
+- [`notebooks/notebook.ipynb`](notebooks/notebook.ipynb): the main working notebook. It includes data loading and cleaning, validation checks, weather retrieval and joins, Q1–Q5, charts, the recommendation, and reflections.
+- [`notebooks/scratch/`](notebooks/scratch/): supporting notebook work and experiments.
+- [`data/`](data/): the project’s source files:
+  - `walmart_transactions.csv`: transaction records
+  - `product_catalog.csv`: product and SKU information
+  - `store_locations.csv`: store locations
+  - `distribution_centers.csv`: distribution-center locations
+  - `inventory_and_sales.db`: SQLite database with sales and inventory tables
+- [`TEAM_CHARTER.md`](TEAM_CHARTER.md): team goals, roles, responsibilities, and working agreements.
 
 ## Run the analysis
 
