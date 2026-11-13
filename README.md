@@ -56,11 +56,3 @@ Run the cells from top to bottom. Internet access is required because the notebo
 5. **Board-game investigation** — weighs the observed sales signal against data quality and inventory risks before making a recommendation.
 
 The notebook documents the cleaning decisions and validation checks alongside the analysis so readers can see where the data may limit conclusions.
-
-## Adding a PDF
-
-For a case document or other project reference, place the PDF in a folder such as `docs/` and link it from this README using a relative path, for example:
-
-`[Case PDF](docs/case.pdf)`
-
-Only add documents your team is allowed to share in this repository.
